@@ -1,0 +1,14 @@
+INPUT:
+set1 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii10558/timopheevii10558
+set2 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii10827/timopheevii10827
+set3 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii15832/timopheevii15832
+set4 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii22438/timopheevii22438
+set5 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii3708/timopheevii3708
+set6 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii14352/timopheevii14352
+set7 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii17024/timopheevii17024
+set8 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii538429/timopheevii538429
+set9 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii538512/timopheevii538512
+OUTPUT:
+/jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/merged = set1 + set2 + set3 + set4 + set5 + set6 + set7 + set8 + set9
+OUTPUT_PARAMS:
+-ci3 -cx10000
