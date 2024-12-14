@@ -1,0 +1,67 @@
+INPUT:
+Ae_ventricosa = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_ventricosa/Ae_ventricosa
+Ae_bicornis = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_bicornis/Ae_bicornis
+S_cereale = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/S_cereale/S_cereale
+Ae_biuncialis = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_biuncialis/Ae_biuncialis
+Ae_caudata = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_caudata/Ae_caudata
+Ae_columnaris = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_columnaris/Ae_columnaris
+Ae_comosa = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_comosa/Ae_comosa
+Ae_crassa = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_crassa/Ae_crassa
+Ae_cylindrica = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_cylindrica/Ae_cylindrica
+Ae_juvenalis = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_juvenalis/Ae_juvenalis
+Ae_kotschyii = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_kotschyii/Ae_kotschyii
+Ael6782 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ael6782/Ael6782
+Ae_longissima = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_longissima/Ae_longissima
+Ae_mutica = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_mutica/Ae_mutica
+Ae_ovata = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_ovata/Ae_ovata
+Aes1644 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Aes1644/Aes1644
+Ae_searsii = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_searsii/Ae_searsii
+Ae_sharonensis = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_sharonensis/Ae_sharonensis
+Ae_speltoides = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_speltoides/Ae_speltoides
+Ae_triaristata = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_triaristata/Ae_triaristata
+Ae_triuncialis = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_triuncialis/Ae_triuncialis
+T_carthilicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_carthilicum/T_carthilicum
+Ae_uniaristata = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_uniaristata/Ae_uniaristata
+Ae_variablis = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_variablis/Ae_variablis
+Ae_vavilovii = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Ae_vavilovii/Ae_vavilovii
+BW_01028 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/BW_01028/BW_01028
+S_anatolicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/S_anatolicum/S_anatolicum
+S_iranicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/S_iranicum/S_iranicum
+S_segetale = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/S_segetale/S_segetale
+S_strictum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/S_strictum/S_strictum
+S_vavilovii = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/S_vavilovii/S_vavilovii
+TA10171_L1 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/TA10171_L1/TA10171_L1
+TA1675_L2 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/TA1675_L2/TA1675_L2
+TA2576_L3 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/TA2576_L3/TA2576_L3
+T_dicoccoides = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_dicoccoides/T_dicoccoides
+T_dicoccum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_dicoccum/T_dicoccum
+T_durum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_durum/T_durum
+Th_bessarabicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Th_bessarabicum/Th_bessarabicum
+Th_elongatum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Th_elongatum/Th_elongatum
+Th_intermedium = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Th_intermedium/Th_intermedium
+Th_junceum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Th_junceum/Th_junceum
+Th_ponticum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Th_ponticum/Th_ponticum
+Th_turcicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/Th_turcicum/Th_turcicum
+T_ispahanicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_ispahanicum/T_ispahanicum
+ispahanicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/ispahanicum/ispahanicum
+T_macha = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_macha/T_macha
+T_monococcum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_monococcum/T_monococcum
+T_polonicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_polonicum/T_polonicum
+T_sphaerococcum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_sphaerococcum/T_sphaerococcum
+T_turanicum = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_turanicum/T_turanicum
+T_urartu = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_urartu/T_urartu
+paragon3 = /jic/scratch/projects/watseq/kmer_agis/kmc_wheat/pangenome/kmers/paragon3/paragon3
+cadenza2 = /jic/scratch/projects/watseq/kmer_agis/kmc_wheat/pangenome/kmers/cadenza2/cadenza2
+robigus3 = /jic/scratch/projects/watseq/kmer_agis/kmc_wheat/pangenome/kmers/robigus3/robigus3
+weebil3 = /jic/scratch/projects/watseq/kmer_agis/kmc_wheat/pangenome/kmers/weebil3/weebil3
+claire2 = /jic/scratch/projects/watseq/kmer_agis/kmc_wheat/pangenome/kmers/claire2/claire2
+T_timopheevii_pg = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_timopheevii_pg/T_timopheevii_pg
+timopheevii33255 = /jic/scratch/projects/watseq/kmer_agis/kmc_wheat/pangenome/kmers/timopheevii33255/timopheevii33255
+timopheevii10558 = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/timopheevii10558/timopheevii10558
+T_timopheevii = /jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_timopheevii/T_timopheevii
+
+OUTPUT:
+/jic/scratch/groups/Cristobal-Uauy/quirozj/00_kmers/wilds/kmers/T_durum_wilds_subtract/T_durum_wilds_subtract = T_durum - T_ispahanicum - S_strictum - S_segetale - S_iranicum - S_anatolicum - Ae_triuncialis - T_carthilicum - T_timopheevii_pg - Th_bessarabicum - T_turanicum - T_sphaerococcum - T_polonicum - T_macha - T_dicoccum - T_dicoccoides - S_vavilovii - Ae_vavilovii - Ae_variablis - Ae_uniaristata - Th_ponticum - Th_intermedium - Th_elongatum - Th_junceum - Th_turcicum - T_urartu - T_monococcum - Ae_triaristata - Ae_speltoides - Ae_sharonensis - Ae_searsii - Ae_ovata - Ae_mutica - Ae_longissima - Ae_kotschyii - Ae_juvenalis - Ae_cylindrica - Ae_crassa - Ae_comosa - Ae_columnaris - Ae_caudata - Ae_biuncialis - Ae_bicornis - S_cereale - Ael6782 - Aes1644 - BW_01028 - TA10171_L1 - TA1675_L2 - TA2576_L3 - ispahanicum - paragon3 - cadenza2 - claire2 - timopheevii10558 - T_timopheevii - Ae_ventricosa
+
+OUTPUT_PARAMS:
+-ci2
